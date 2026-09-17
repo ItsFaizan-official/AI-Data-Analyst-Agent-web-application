@@ -155,6 +155,6 @@ Users should avoid uploading confidential, sensitive, or personally identifiable
 
 ## 👨‍💻 About
 
-**Data Analyst Agent by Umer** was developed as a practical application of my skills in **Data Analytics, Python, Artificial Intelligence, Machine Learning, and Web Development**.
+**Data Analyst Agent by Faizan** was developed as a practical application of my skills in **Data Analytics, Python, Artificial Intelligence, Machine Learning, and Web Development**.
 
 The project reflects my interest in building AI powered tools that can simplify real world data analysis and help users understand their data more efficiently.
